@@ -1,16 +1,18 @@
-# Hola!👋
+# Hola! 👋
 
-## Sobre mi
-Soy estudiante en la UNL, mas precisamente de la facultad de Ingenieria y Ciencias Hidrias.
-Actualmente estoy cursando la carrera de Ingenieria en Informatica
-- He adquirido conocimiento en C++ y Programacion Orientada a Objetos
-- He desarrollado una aplicacion de gestion de gimnasios como uno de mis proyectos en la carrera
+## Sobre mí
+Soy Pablo 🇦🇷, estudiante en la **Universidad Nacional del Litoral (UNL)**, en la **Facultad de Ingeniería y Ciencias Hídricas**.  
+Actualmente estoy cursando la carrera de **Ingeniería en Informática**.
 
-Me encuentro desarrollando mis habilidades Dev en Full-Stack
-- Actualmente tengo conocimientos basicos en HTML, CSS, y JavaScript
+- He adquirido conocimientos en **C++** y **Programación Orientada a Objetos**.
+- Desarrollé una aplicación de gestión de gimnasios como proyecto académico.
 
-Tambien utilizo otras herramientas como:
-- Git
-- GitHub
-- GitKraken
-- Slack
+## Desarrollo Full-Stack
+Actualmente estoy aprendiendo y desarrollando mis habilidades en el área **Full-Stack**:
+- 🌐 Conocimientos básicos en **HTML**, **CSS** y **JavaScript**.
+
+## Herramientas que utilizo
+- 🖇️ Git  
+- 🐙 GitHub  
+- 🌀 GitKraken  
+- 💬 Slack  
