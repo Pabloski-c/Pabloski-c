@@ -12,7 +12,13 @@ Actualmente estoy aprendiendo y desarrollando mis habilidades en el área **Full
 - 🌐 Conocimientos básicos en **HTML**, **CSS** y **JavaScript**.
 
 ## Herramientas que utilizo
-- 🖇️ Git  
-- 🐙 GitHub  
+- 🖇️ Git  +  🐙 GitHub  
 - 🌀 GitKraken  
-- 💬 Slack  
+- Discord / 💬 Slack
+- Visual Studio Code
+- Node.js + Express.js
+- Postman / Thunder Client
+- React + JSX
+
+## Metodologias que conozco
+- Scrum
