@@ -6,6 +6,7 @@ Actualmente curso la carrera de **Ingeniería en Informática**.
 
 - He adquirido conocimientos en **C++** y **Programación Orientada a Objetos**, Programacion Generica, Bibliotecas STL y Interfaces Graficas.  
 - Desarrollé una aplicación de **gestión de gimnasios** como proyecto académico. <!-- ([ver repositorio](https://github.com/usuario/repositorio)) -->
+- Actualmente me encuentro desarrollando una aplicacion web para un ecommerce.
 
 ---
 
