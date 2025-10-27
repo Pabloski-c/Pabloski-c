@@ -11,8 +11,7 @@ Actualmente curso la carrera de **Ingeniería en Informática**.
 ---
 
 ## 💻 Desarrollo Full-Stack
-Actualmente estoy aprendiendo y desarrollando mis habilidades en el área **Full-Stack**.  
-Formo parte del programa **Certificación Avanzada en Full Stack Developer**, donde trabajo con las siguientes tecnologías y herramientas:
+**Certificación Avanzada en Full Stack Developer**, tecnologías y herramientas:
 
 ### 🧩 Tecnologías del curso
 - 🌐 **HTML5**, **CSS3**, **JavaScript (ES6+)**  
