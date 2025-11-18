@@ -21,7 +21,7 @@ Actualmente curso la carrera de **Ingeniería en Informática**.
 - **JSON Web Tokens (JWT)**  
 
 ### 🛠️ Herramientas del entorno
-- **Git** + 🐙 **GitHub**  
+- **Git** + **GitHub**  
 - **GitKraken**  
 - **Visual Studio Code**  
 - **Postman / Thunder Client**  
