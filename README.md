@@ -1,6 +1,6 @@
 # Hola! 👋
 
-## 🚀 Sobre mí
+## Sobre mí
 Soy **Pablo** 🇦🇷, estudiante en la **Universidad Nacional del Litoral (UNL)**, en la **Facultad de Ingeniería y Ciencias Hídricas**.  
 Actualmente curso la carrera de **Ingeniería en Informática**.
 
@@ -14,18 +14,18 @@ Actualmente curso la carrera de **Ingeniería en Informática**.
 **Certificación Avanzada en Full Stack Developer**, tecnologías y herramientas:
 
 ### 🧩 Tecnologías del curso
-- 🌐 **HTML5**, **CSS3**, **JavaScript (ES6+)**  
-- ⚙️ **Node.js**, **Express.js**  
-- 🗃️ **MongoDB**, **Mongoose**  
-- ⚛️ **React**, **React Router**, **Context API**  
-- 🔐 **JSON Web Tokens (JWT)**  
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**  
+- **Node.js**, **Express.js**  
+- **MongoDB**, **Mongoose**  
+- **React**, **React Router**, **Context API**  
+- **JSON Web Tokens (JWT)**  
 
 ### 🛠️ Herramientas del entorno
-- 🖇️ **Git** + 🐙 **GitHub**  
-- 🌀 **GitKraken**  
-- 📝 **Visual Studio Code**  
-- 📬 **Postman / Thunder Client**  
-- 💬 **Slack / Discord**
+- **Git** + 🐙 **GitHub**  
+- **GitKraken**  
+- **Visual Studio Code**  
+- **Postman / Thunder Client**  
+- **Slack / Discord**
 
 🌱 **Actualmente aprendiendo:** React, Express, y bases de datos SQL/NoSQL.
 
@@ -36,5 +36,5 @@ Actualmente curso la carrera de **Ingeniería en Informática**.
 
 ---
 
-✨ Me apasiona el mundo de la tecnología, el automovilismo y el gaming.  
-🎯 **Objetivo:** crecer como desarrollador Full-Stack y aportar a proyectos de impacto.
+Me apasiona el mundo de la tecnología, el automovilismo y el gaming.  
+**Objetivo:** crecer como desarrollador.
