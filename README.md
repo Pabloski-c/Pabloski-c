@@ -53,5 +53,3 @@ Además del código, me interesa la gestión de proyectos y las nuevas fronteras
 * **Metodologías Ágiles:** Experiencia trabajando con marco **Scrum** (Sprints, Dailies, Retrospectives, Backlog management).
 * **Inteligencia Artificial:** Actualmente investigando sobre **Agentes de IA** (Planificación, Memoria, Uso de Herramientas) y frameworks como LangChain y CrewAI.
 * **Future Thinking:** Interés en metodologías de pensamiento prospectivo y detección de señales de futuro.
-
----
