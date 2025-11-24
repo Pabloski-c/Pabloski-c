@@ -55,10 +55,3 @@ Además del código, me interesa la gestión de proyectos y las nuevas fronteras
 * **Future Thinking:** Interés en metodologías de pensamiento prospectivo y detección de señales de futuro.
 
 ---
-
-## Contacto
-
-Si quieres charlar sobre tecnología, desarrollo o sim racing, ¡contáctame!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-a-torres-lell)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lmgb.torreslell.pablo@gmail.com)
