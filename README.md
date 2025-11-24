@@ -1,30 +1,30 @@
 # Hola, soy Pablo! 👋🇦🇷
 
-### 🎓 Estudiante de Ingeniería en Informática | Full Stack Developer
+### Estudiante de Ingeniería en Informática | Full Stack Developer
 
 Actualmente avanzo en mi carrera de **Ingeniería en Informática** en la **Universidad Nacional del Litoral (FICH-UNL)**, complementando mi formación académica con el desarrollo de software moderno.
 
-Acabo de finalizar la **Certificación Avanzada en Full Stack Developer** en **ITBA Innovación**, consolidando mis habilidades en el stack **MERN**. Me apasiona crear soluciones tecnológicas eficientes, el automovilismo 🏎️ y el gaming 🎮.
+Acabo de finalizar la **Certificación Avanzada en Full Stack Developer** en **ITBA Innovación**, consolidando mis habilidades en el stack **MERN**. Me apasiona crear soluciones tecnológicas eficientes, el automovilismo y el gaming.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white)
 
-### ⚙️ Backend & Base de Datos
+### Backend & Base de Datos
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
-### 🔧 Herramientas & Deploy
+### Herramientas & Deploy
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -32,7 +32,7 @@ Acabo de finalizar la **Certificación Avanzada en Full Stack Developer** en **I
 
 ---
 
-## 🌟 Proyecto Destacado: NEXUS (Mueblería Hermanos Jota)
+## Proyecto Destacado: NEXUS (Mueblería Hermanos Jota)
 
 Como proyecto final de la certificación ITBA, desarrollé un E-commerce completo desde cero, simulando un entorno real de producción.
 
@@ -46,7 +46,7 @@ Como proyecto final de la certificación ITBA, desarrollé un E-commerce complet
 
 ---
 
-## 🧠 Aprendizaje Continuo e Intereses
+## Aprendizaje Continuo e Intereses
 
 Además del código, me interesa la gestión de proyectos y las nuevas fronteras de la IA:
 
@@ -56,7 +56,7 @@ Además del código, me interesa la gestión de proyectos y las nuevas fronteras
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 Si quieres charlar sobre tecnología, desarrollo o sim racing, ¡contáctame!
 
