@@ -4,7 +4,7 @@
 
 Actualmente avanzo en mi carrera de **Ingeniería en Informática** en la **Universidad Nacional del Litoral (FICH-UNL)**, complementando mi formación académica con el desarrollo de software moderno.
 
-Acabo de finalizar la **Certificación Avanzada en Full Stack Developer** en **ITBA Innovación**, consolidando mis habilidades en el stack **MERN**. Me apasiona crear soluciones tecnológicas eficientes, el automovilismo y el gaming.
+Obtuve mi **Certificación Avanzada en Full Stack Developer** en **ITBA Innovación**, consolidando mis habilidades en el stack **MERN**. Me apasiona crear soluciones tecnológicas eficientes, el automovilismo y el gaming.
 
 ---
 
