@@ -4,29 +4,39 @@
 
 I am currently advancing my career in **Computer Engineering** at the **National University of the Litoral (FICH-UNL)**, complementing my academic training with modern software development.
 
-I obtained my **Advanced Full Stack Developer Certification** at **ITBA Innovación**, consolidating my skills in the **MERN** stack. I am passionate about creating efficient technological solutions, motorsports, and gaming.
+I obtained my **Advanced Full Stack Developer Certification** at **ITBA Innovación**, consolidating my skills in the **MERN** stack and the **.NET** ecosystem. I am passionate about creating efficient technological solutions, motorsports, and gaming.
 
 ---
 
 ## Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-006699?style=flat&logo=xml&logoColor=white)
+![XSL](https://img.shields.io/badge/-XSL-005A9C?style=flat&logo=w3c&logoColor=white)
 
-### Backend & Database
+### Frameworks & Technologies
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Web Forms](https://img.shields.io/badge/-Web%20Forms-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?style=flat&logo=react&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
-### Tools & Deploy
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+### Tools, Servers & Deploy
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=flat&logo=dbeaver&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![IIS](https://img.shields.io/badge/-IIS-0078D7?style=flat&logo=windows&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
