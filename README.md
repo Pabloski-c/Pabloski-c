@@ -47,7 +47,7 @@ Obtuve mi **Certificación Avanzada en Full Stack Developer** en **ITBA Innovaci
 Desarrollé mi propia plataforma de marca personal, fusionando un diseño inmersivo con funcionalidades Full Stack reales. No es solo una landing page, es una aplicación conectada.
 
 * **Arquitectura MERN:** Frontend en **React+Vite** y Backend API RESTful en **Node/Express** para gestión de mensajes.
-* **Sincronización Total con GitHub:** * Los proyectos se obtienen automáticamente desde la API de GitHub.
+* **Sincronización Total con GitHub:** Los proyectos se obtienen automáticamente desde la API de GitHub.
     * ¡Esta misma sección "Sobre Mí" que lees ahora se renderiza dinámicamente en el portafolio! (DRY Concept).
 * **UX/UI Avanzada:** Estética Hacker/Terminal con **Tailwind CSS**, animaciones fluidas con **Framer Motion** y componentes interactivos como `react-type-animation`.
 * **Infraestructura:** Base de datos **MongoDB Atlas** para persistencia y despliegue distribuido en **Vercel** (Front) y **Render** (Back).
